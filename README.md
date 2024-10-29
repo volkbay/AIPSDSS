@@ -1,7 +1,7 @@
 # Automated Image Processing for Scratch Detection on Specular Surfaces
 ![msc](https://user-images.githubusercontent.com/97564250/232253087-a540fb15-70ed-4099-b99a-9f2bd8c719c8.png)
 
-This code belongs to a thesis work to detect scratch objects on a mirror-like metallic surfaces. The study targets to run on an actual product line in a dishwasher plant. As a results, the challenges are (1) operating in real-time and fast and (2) scrathes hard to spotted by naked eye. The project partner is [Arçelik](https://www.arcelikglobal.com/en/technology/rd/rd-and-design-centers/).
+This code belongs to a thesis work to detect scratch objects on a mirror-like metallic surfaces. The study targets to run on an actual product line in a dishwasher plant. As a results, the challenges are (1) operating in real-time and fast and (2) scrathes hard to spotted by naked eye. The project partner is [Arçelik](https://www.arcelikglobal.com/en/technology/r-d/overview/).
 
 >**Paper** _Okbay, V., Akar, G., & Yaman, U., (2018). Automated Image Processing for Scratch Detection on Specular Surfaces._ International Conference and Exhibition on Digital Transformation and Smart Systems, Ankara, Turkey. Presented at [DTSS 2018](https://dtss.metu.edu.tr), Ankara, Turkey.
 
